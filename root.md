@@ -4,7 +4,7 @@ go to class [class](https://github.com/makikuri/nousmonkey/blob/Ancient-Philosop
 ## Graph of the Concepts in This class:
 
 
-! [owo](grapg ancient phil.png)
+![](https://github.com/makikuri/nousmonkey/blob/Ancient-Philosophy/grapg%20ancient%20phil.png)
 
 
 
