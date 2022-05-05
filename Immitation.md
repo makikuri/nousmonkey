@@ -17,6 +17,8 @@ difficulty of what is not.<br>
 
 ## Cliveli's interpretationns:<br>
 1. The ontological interpretation.<br>
+    a. To posit "the false" = "what is not is" <br>
+       contradiction. 
 2. The semantic-gnoseological interpretation.<br>
     1. The indefinability interpretation.<br>
     2. The inexistence interpretation<br>
