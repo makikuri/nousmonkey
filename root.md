@@ -1,10 +1,4 @@
----
-id: j0bcr922oggn6649ajcj0jp
-title: Ancient Philosophy Advanced
-desc: ''
-updated: 1651252584596
-created: 1646145338690
----
+
 go to class [[class]]
 
 ## Table of Concepts In Class:
