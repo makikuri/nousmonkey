@@ -12,3 +12,5 @@ back to [root](https://github.com/makikuri/nousmonkey/blob/Ancient-Philosophy/ro
 3. not phantastike, but the genus mimêtikê<br>
 is later said to be entangled with the <br>
 difficulty of what is not.<br>
+
+![](https://github.com/makikuri/nousmonkey/blob/Ancient-Philosophy/appearance.png)
