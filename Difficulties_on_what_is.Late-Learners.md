@@ -5,5 +5,5 @@ desc: ''
 updated: 1651242155146
 created: 1651241313803
 ---
-back to [[root]]
+back to [root](https://github.com/makikuri/nousmonkey/blob/Ancient-Philosophy/root.md)
 back to [[Difficulties_on_what_is]]
