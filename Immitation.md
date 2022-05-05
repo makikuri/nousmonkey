@@ -14,3 +14,18 @@ is later said to be entangled with the <br>
 difficulty of what is not.<br>
 
 ![](https://github.com/makikuri/nousmonkey/blob/Ancient-Philosophy/appearance.png)
+
+## Cliveli's interpretationns:<br>
+1. The ontological interpretation.<br>
+2. The semantic-gnoseological interpretation.<br>
+    1. The indefinability interpretation.<br>
+    2. The inexistence interpretation<br>
+        1. Interpretation of propositions<br>
+        2. Collapse of truth conditions on meaning conditions
+<p>
+
+1. This truth-entailing porting of <br>
+reality could fall under different categories:
+    1. a fact – the fact that Theaetetus is flying
+    2.  a trope – Theatetus' flight
+    3. a predicative complex – flying-Theaetetus
