@@ -20,10 +20,15 @@ difficulty of what is not.<br>
     a. To posit "the false" = "what is not is" <br>
        = contradiction. 
 2. The semantic-gnoseological interpretation.<br>
+    a. saying or thinking what is not = impossible <br>
+       = one cannot say anything about the false. 
     1. The indefinability interpretation.<br>
+        a. 
     2. The inexistence interpretation<br>
-    2.1 Interpretation of propositions<br>
-    2.2. Collapse of truth conditions on meaning conditions
+         2.1 Interpretation of propositions<br>
+         a.
+         4.2. Collapse of truth conditions on meaning conditions
+         a.
 <p>
 
 1. This truth-entailing porting of <br>
