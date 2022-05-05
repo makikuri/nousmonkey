@@ -9,3 +9,6 @@ back to [root](https://github.com/makikuri/nousmonkey/blob/Ancient-Philosophy/ro
     1.neglects/distorts produce true proportions <br>
     2.depends on the other's viewpoint
 
+3. not phantastike, but the genus mimêtikê<br>
+is later said to be entangled with the <br>
+difficulty of what is not.<br>
