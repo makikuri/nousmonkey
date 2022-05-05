@@ -1,13 +1,4 @@
----
-id: p40afi0vl8jyvy16nb9jdnm
-title: Puzzles on Non-Being
-desc: ''
-updated: 1651240827358
-created: 1651240660511
----
-
-back to [[root]]
-
+back to [root](https://github.com/makikuri/nousmonkey/blob/Ancient-Philosophy/root.md)
 
 + why u cannot say what is not
 
