@@ -1,11 +1,4 @@
----
-id: huzp71n31lb4lug9mopq5ym
-title: Class
-desc: ''
-updated: 1650637458920
-created: 1647011372621
----
-return to [[root]]
+back to [root](https://github.com/makikuri/nousmonkey/blob/Ancient-Philosophy/root.md)
 
 ### On Non-Being:
 1. argument on non-being
