@@ -29,8 +29,9 @@ difficulty of what is not.<br>
          2.1 Interpretation of propositions <br>
          a. a sentence to express what is not <br>
             = not expressing a proposition = is not a sentence <br>
-         4.2. Collapse of truth conditions on meaning conditions
-         a. sentence = meaningfull = refers to reality --> what is false = meaningless<br>
+         4.2. Collapse of truth conditions on meaning conditions <br>
+         a. sentence = meaningfull = refers to reality <br>
+          --> what is false = meaningless<br>
 <p>
 
 1. This truth-entailing porting of <br>
