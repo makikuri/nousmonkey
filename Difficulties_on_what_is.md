@@ -1,0 +1,13 @@
+---
+id: 67kngyq5xiwat0sufe429vv
+title: Difficulties_on_what_is
+desc: ''
+updated: 1651241453262
+created: 1651240991035
+---
+back to [[root]]
+
+
+1. [[Difficulties_on_what_is.monist&dualist]]
+2. [[Difficulties_on_what_is.Idealists&Empiricist]]
+3. [[Difficulties_on_what_is.Late-Learners]]
