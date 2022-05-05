@@ -1,11 +1,4 @@
----
-id: 86cwd8aihs3m80gejf54hqe
-title: Being and Blending
-desc: ''
-updated: 1651242073110
-created: 1651241330275
----
-back to [[root]]
+back to [root](https://github.com/makikuri/nousmonkey/blob/Ancient-Philosophy/root.md)
 
 [[Being and Blending.Non-Being as Differance]]
 
