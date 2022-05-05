@@ -3,16 +3,16 @@ go to class [[class]]
 
 ## Table of Concepts In Class:
 1. [Immitation](https://github.com/makikuri/nousmonkey/blob/Ancient-Philosophy/Immitation.md)
-2. [[Interpretation]]
-    1. [[interpretation.whatisnot]]
-    2. [[interpretation.thefalse]]
-3. [[Puzzles on Non-Being]]
-4. [[Difficulties_on_what_is]]
-    1. [[Difficulties_on_what_is.monist&dualist]]
-    2. [[Difficulties_on_what_is.Idealists&Empiricist]]
-    3. [[Difficulties_on_what_is.Late-Learners]]
-5. [[Being and Blending]]
-    1. [[Being and Blending.Non-Being as Differance]]
+2. [Interpretation](https://github.com/makikuri/nousmonkey/blob/Ancient-Philosophy/interpretation.md)
+    1. [interpretation.whatisnot](https://github.com/makikuri/nousmonkey/blob/Ancient-Philosophy/interpretation.whatisnot.md)
+    2. [interpretation.thefalse](https://github.com/makikuri/nousmonkey/blob/Ancient-Philosophy/interpretation.thefalse.md)
+3. [Puzzles on Non-Being](https://github.com/makikuri/nousmonkey/blob/Ancient-Philosophy/Puzzles%20on%20Non-Being.md)
+4. [Difficulties_on_what_is](https://github.com/makikuri/nousmonkey/blob/Ancient-Philosophy/Difficulties_on_what_is.monist%26dualist.md)
+    1. [Difficulties_on_what_is.monist&dualist](https://github.com/makikuri/nousmonkey/blob/Ancient-Philosophy/Difficulties_on_what_is.monist%26dualist.md)
+    2. [Difficulties_on_what_is.Idealists&Empiricist](https://github.com/makikuri/nousmonkey/blob/Ancient-Philosophy/Difficulties_on_what_is.Idealists%26Empiricist.md)
+    3. [Difficulties_on_what_is.Late-Learners](https://github.com/makikuri/nousmonkey/blob/Ancient-Philosophy/Difficulties_on_what_is.Late-Learners.md)
+5. [Being and Blending](https://github.com/makikuri/nousmonkey/blob/Ancient-Philosophy/Being%20and%20Blending.md)
+    1. [Being and Blending.Non-Being as Differance](https://github.com/makikuri/nousmonkey/blob/Ancient-Philosophy/Being%20and%20Blending.Non-Being%20as%20Differance.md)
 
 
 ## The Text: The Sophist
