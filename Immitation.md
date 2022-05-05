@@ -20,8 +20,8 @@ difficulty of what is not.<br>
 2. The semantic-gnoseological interpretation.<br>
     1. The indefinability interpretation.<br>
     2. The inexistence interpretation<br>
-        1. Interpretation of propositions<br>
-        2. Collapse of truth conditions on meaning conditions
+      1. Interpretation of propositions<br>
+      2. Collapse of truth conditions on meaning conditions
 <p>
 
 1. This truth-entailing porting of <br>
