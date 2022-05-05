@@ -1,5 +1,6 @@
 
 go to class [class](https://github.com/makikuri/nousmonkey/blob/Ancient-Philosophy/class.md)
+go to groupwork [groupworkd](https://github.com/makikuri/nousmonkey/blob/Ancient-Philosophy/groupwork.md)
 
 ## Graph of the Concepts in This class:
 
