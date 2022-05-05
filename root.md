@@ -1,6 +1,17 @@
 
 go to class [class](https://github.com/makikuri/nousmonkey/blob/Ancient-Philosophy/class.md)
 
+## Graph of the Concepts in This class:
+
+
+![](image.png)
+
+
+
+
+
+
+
 ## Table of Concepts In Class:
 1. [Immitation](https://github.com/makikuri/nousmonkey/blob/Ancient-Philosophy/Immitation.md)
 2. [Interpretation](https://github.com/makikuri/nousmonkey/blob/Ancient-Philosophy/interpretation.md)
