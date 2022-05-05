@@ -2,7 +2,7 @@
 go to class [[class]]
 
 ## Table of Concepts In Class:
-1. [[Immitation]] 
+1. [Immitation](https://github.com/makikuri/nousmonkey/blob/Ancient-Philosophy/Immitation.md)
 2. [[Interpretation]]
     1. [[interpretation.whatisnot]]
     2. [[interpretation.thefalse]]
