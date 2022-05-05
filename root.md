@@ -7,7 +7,7 @@ go to class [[class]]
     1. [interpretation.whatisnot](https://github.com/makikuri/nousmonkey/blob/Ancient-Philosophy/interpretation.whatisnot.md)
     2. [interpretation.thefalse](https://github.com/makikuri/nousmonkey/blob/Ancient-Philosophy/interpretation.thefalse.md)
 3. [Puzzles on Non-Being](https://github.com/makikuri/nousmonkey/blob/Ancient-Philosophy/Puzzles%20on%20Non-Being.md)
-4. [Difficulties_on_what_is](https://github.com/makikuri/nousmonkey/blob/Ancient-Philosophy/Difficulties_on_what_is.monist%26dualist.md)
+4. [Difficulties_on_what_is](https://github.com/makikuri/nousmonkey/blob/Ancient-Philosophy/Difficulties_on_what_is.md)
     1. [Difficulties_on_what_is.monist&dualist](https://github.com/makikuri/nousmonkey/blob/Ancient-Philosophy/Difficulties_on_what_is.monist%26dualist.md)
     2. [Difficulties_on_what_is.Idealists&Empiricist](https://github.com/makikuri/nousmonkey/blob/Ancient-Philosophy/Difficulties_on_what_is.Idealists%26Empiricist.md)
     3. [Difficulties_on_what_is.Late-Learners](https://github.com/makikuri/nousmonkey/blob/Ancient-Philosophy/Difficulties_on_what_is.Late-Learners.md)
