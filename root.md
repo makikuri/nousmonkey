@@ -1,5 +1,5 @@
 
-go to class [[class]]
+go to class [class](https://github.com/makikuri/nousmonkey/blob/Ancient-Philosophy/class.md)
 
 ## Table of Concepts In Class:
 1. [Immitation](https://github.com/makikuri/nousmonkey/blob/Ancient-Philosophy/Immitation.md)
